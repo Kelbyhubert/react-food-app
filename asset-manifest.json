@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/kelbyhubert.github.io/static/css/main.802a30c7.chunk.css",
-    "main.js": "/kelbyhubert.github.io/static/js/main.835101c3.chunk.js",
-    "main.js.map": "/kelbyhubert.github.io/static/js/main.835101c3.chunk.js.map",
-    "runtime-main.js": "/kelbyhubert.github.io/static/js/runtime-main.d9b8496e.js",
-    "runtime-main.js.map": "/kelbyhubert.github.io/static/js/runtime-main.d9b8496e.js.map",
-    "static/js/2.a69f5b70.chunk.js": "/kelbyhubert.github.io/static/js/2.a69f5b70.chunk.js",
-    "static/js/2.a69f5b70.chunk.js.map": "/kelbyhubert.github.io/static/js/2.a69f5b70.chunk.js.map",
-    "static/js/3.9cd5c4d4.chunk.js": "/kelbyhubert.github.io/static/js/3.9cd5c4d4.chunk.js",
-    "static/js/3.9cd5c4d4.chunk.js.map": "/kelbyhubert.github.io/static/js/3.9cd5c4d4.chunk.js.map",
-    "index.html": "/kelbyhubert.github.io/index.html",
-    "static/css/main.802a30c7.chunk.css.map": "/kelbyhubert.github.io/static/css/main.802a30c7.chunk.css.map",
-    "static/js/2.a69f5b70.chunk.js.LICENSE.txt": "/kelbyhubert.github.io/static/js/2.a69f5b70.chunk.js.LICENSE.txt"
+    "main.css": "/react-food-app/static/css/main.802a30c7.chunk.css",
+    "main.js": "/react-food-app/static/js/main.835101c3.chunk.js",
+    "main.js.map": "/react-food-app/static/js/main.835101c3.chunk.js.map",
+    "runtime-main.js": "/react-food-app/static/js/runtime-main.8391b061.js",
+    "runtime-main.js.map": "/react-food-app/static/js/runtime-main.8391b061.js.map",
+    "static/js/2.a69f5b70.chunk.js": "/react-food-app/static/js/2.a69f5b70.chunk.js",
+    "static/js/2.a69f5b70.chunk.js.map": "/react-food-app/static/js/2.a69f5b70.chunk.js.map",
+    "static/js/3.9cd5c4d4.chunk.js": "/react-food-app/static/js/3.9cd5c4d4.chunk.js",
+    "static/js/3.9cd5c4d4.chunk.js.map": "/react-food-app/static/js/3.9cd5c4d4.chunk.js.map",
+    "index.html": "/react-food-app/index.html",
+    "static/css/main.802a30c7.chunk.css.map": "/react-food-app/static/css/main.802a30c7.chunk.css.map",
+    "static/js/2.a69f5b70.chunk.js.LICENSE.txt": "/react-food-app/static/js/2.a69f5b70.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d9b8496e.js",
+    "static/js/runtime-main.8391b061.js",
     "static/js/2.a69f5b70.chunk.js",
     "static/css/main.802a30c7.chunk.css",
     "static/js/main.835101c3.chunk.js"
